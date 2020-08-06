@@ -43,11 +43,6 @@
   transition: all 0.15s ease-in-out;
 }
 
-.centredCard {
-  margin: "auto";
-  top: "50%";
-}
-
 #tsparticles {
   position: fixed;
   height: 100%;
