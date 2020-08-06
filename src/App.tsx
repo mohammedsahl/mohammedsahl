@@ -12,12 +12,17 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 
 function App() {
+    const cardStyle = {
+        width: '18em',
+        margin: 'auto',
+        display: 'block',
+    }
     return (
-        <div className="App">
+        <div className="App parent">
             <Particles options={particlesOptions as RecursivePartial<IOptions>} />
-            <Card style={{ width: '18rem' }} bg='Light'>
+            <Card style={cardStyle} bg='Light'>
                 <Card.Body>
-                    <Card.Title><b>Mohammed</b> Sahl</Card.Title>
+                    <Card.Title size="2x"><b>Mohammed</b> Sahl</Card.Title>
                     <Card.Subtitle className="mb-2 text-muted">Computer Science '23, University of Waterloo</Card.Subtitle>
                     <div className="links">
                         <Card.Link style={{ 'color': 'inherit' }} href="https://www.github.com/mohammedsahl">
