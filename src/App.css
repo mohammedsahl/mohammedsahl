@@ -36,6 +36,19 @@
     }
 }
 
+.links .fa-button {
+    color: #00000085;
+}
+
+.links .fa-button:hover {
+    color: #000000;
+    transition: all 0.15s ease-in-out;
+}
+
+Card.Link {
+    color: inherit;
+}
+
 #tsparticles {
     position: fixed;
     height: 100%;
