@@ -38,7 +38,7 @@ function App() {
 
                         <Card.Link></Card.Link>
 
-                        <Card.Link style={{ 'color': 'inherit' }} href="https://github.com/mohammedsahl/mohammedsahl/raw/master/Resume%20-%20Mohammed%20Sahl.pdf">
+                        <Card.Link style={{ 'color': 'inherit' }} href="https://github.com/mohammedsahl/mohammedsahl/raw/master/resume.pdf">
                                 <FontAwesomeIcon icon={faFilePdf} size="3x" className="fa-button" />
                         </Card.Link>
 
