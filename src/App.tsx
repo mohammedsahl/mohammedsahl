@@ -11,6 +11,7 @@ import { faEnvelope, faFilePdf } from '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 function App() {
+    // Define card dimensions
     const cardStyle = {
         width: '30em',
         height: '12em',
