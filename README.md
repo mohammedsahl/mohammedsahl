@@ -1,4 +1,4 @@
-# Heyo :wave: :wave:
+# Heyo :wave:
 Doing some really **cool** (and ***open source***) stuff, like:
  - Writing apex classes and triggers in Salesforce (at Manulife)
  - Establishing the backend server, handling devops and building the testing framework for the [Babel Sandbox v2](https://github.com/MLH-Fellowship/babel-sandbox-server)
