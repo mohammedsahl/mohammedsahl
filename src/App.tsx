@@ -11,16 +11,10 @@ import { faEnvelope, faFilePdf } from '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 function App() {
-    // Define card dimensions
-    const cardStyle = {
-        width: '30em',
-        height: '12em',
-        margin: 'auto',
-    }
     return (
         <div className="App parent">
             <Particles options={particlesOptions as RecursivePartial<IOptions>} />
-            <Card style={cardStyle} bg='Light'>
+            <Card style={{ margin: 'auto' }} bg='Light'>
                 <Card.Body>
                     <Card.Title style={{ fontSize: '2em' }}><b>Mohammed</b> Sahl</Card.Title>
                     <Card.Subtitle  style={{ padding: '1em' }} className="mb-2 text-muted">
