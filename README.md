@@ -1,9 +1,10 @@
 # Heyo :wave:
 Doing some really **cool** (and ***open source***) stuff, like:
+ - Working on the some dope Kotlin based Android :robot: (at Wonolo)
  - Writing apex classes and triggers in Salesforce (at Manulife)
  - Establishing the backend server, handling devops and building the testing framework for the [Babel Sandbox v2](https://github.com/MLH-Fellowship/babel-sandbox-server)
  - Collaborating in making a really cool word document processing JS [package](https://github.com/SheetJS/js-word) :page_facing_up:
- - Writing [Discord bots](https://github.com/barronwei/util-bot) :robot: with Rust (so you know yo messages ain't going anywhere :wink:)
+ - Writing [Discord bots](https://github.com/barronwei/util-bot) with Rust (so you know yo messages ain't going anywhere :wink:)
  - Creating an automatic repository [structure generation](https://github.com/MLH-Fellowship/0.2.1-readme-dirs) program for READMEs
  - Writing embeded code for [**Skynet**](https://bit.ly/395xIyN) :space_invader:
 
