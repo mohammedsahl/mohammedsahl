@@ -1,5 +1,5 @@
 # Heyo :wave:
-Doing some really **cool** (and ***open source***) stuff, like:
+Done some really **cool** (and ***open source***) stuff, like:
  - Working on the some dope Kotlin based Android :robot: (at Wonolo)
  - Writing apex classes and triggers in Salesforce (at Manulife)
  - Establishing the backend server, handling devops and building the testing framework for the [Babel Sandbox v2](https://github.com/MLH-Fellowship/babel-sandbox-server)
