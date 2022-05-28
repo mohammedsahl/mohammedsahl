@@ -1,5 +1,6 @@
 # Heyo :wave:
-Done some really **cool** (and ***open source***) stuff, like:
+I've done some really **cool** (and ***open source***) stuff, like:
+ - Building super cool internal tools at [Google](https://cloud.google.com/anthos)
  - Working on the some dope Android development :robot: (at Wonolo)
  - Writing apex classes and triggers in Salesforce (at Manulife)
  - Establishing the backend server, handling devops and building the testing framework for the [Babel Sandbox v2](https://github.com/MLH-Fellowship/babel-sandbox-server)
