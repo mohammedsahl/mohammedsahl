@@ -8,6 +8,5 @@ I've done some really **cool** (and ***open source***) stuff, like:
  - Collaborating in making a really cool word document processing JS [package](https://github.com/SheetJS/js-word) :page_facing_up:
  - Writing [Discord bots](https://github.com/barronwei/util-bot) with Rust (so you know yo messages ain't going anywhere :wink:)
  - Creating an automatic repository [structure generation](https://github.com/MLH-Fellowship/0.2.1-readme-dirs) program for READMEs
- - Writing embeded code for [**Skynet**](https://bit.ly/395xIyN) :space_invader:
 
 ....and a whole lot [more](https://github.com/mohammedsahl?tab=repositories)! Have an amazing day and DFTBA :tada:!
