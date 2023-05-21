@@ -1,6 +1,6 @@
 # Heyo :wave:
 I've done some really **cool** (and ***open source***) stuff, like:
- - Working on Android (again, cuz it's fun) at [Faire](https://www.faire.com/)
+ - Working on Android at [Faire](https://www.faire.com/)
  - Building super cool internal tools at [Google](https://cloud.google.com/anthos)
  - Working on the some dope Android development :robot: (at Wonolo)
  - Writing apex classes and triggers in Salesforce (at Manulife)
